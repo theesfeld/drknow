@@ -1,0 +1,18 @@
+app_settings:
+  app_name: "drknow"
+  app_version: "0.1.0"
+  logfile: "log.txt"
+  loglevel: "INFO"
+
+llm_settings:
+  llm_model: "mixtral"
+  request_timeout: 120
+  max_retries: 3
+  retry_delay: 1
+  retry_backoff: 2
+  embed_model_name: "nomic-embed-text"
+  chunk_size: 512
+
+data_settings:
+  doc_path: "Documents"
+  context_path: "Contexts"
