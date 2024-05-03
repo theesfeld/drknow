@@ -93,7 +93,7 @@ tokenizers==0.15.2
 torch==2.2.0.dev20230917
 torchaudio==2.2.0.dev20230917
 torchvision==0.17.0.dev20230917
-tqdm==4.66.2
+tqdm==4.66.3
 transformers==4.38.2
 typing-inspect==0.9.0
 typing_extensions==4.10.0
